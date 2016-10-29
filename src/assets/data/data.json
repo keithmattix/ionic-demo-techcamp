@@ -2,16 +2,16 @@
 
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "2016-11-5",
       "groups": [
         {
-          "time": "8:00 am",
+          "time": "7:30 am",
           "sessions": [
             {
-              "name": "Breakfast",
-              "timeStart": "8:00 am",
-              "timeEnd": "9:00 am",
-              "location": "Main hallway",
+              "name": "Registration & Breakfast",
+              "timeStart": "7:30 am",
+              "timeEnd": "8:45 am",
+              "location": "Registration Desk",
               "tracks": ["Food"]
             }
           ]
@@ -20,31 +20,13 @@
           "time": "9:00 am",
           "sessions": [
             {
-              "name": "Introduction to Appcamp.io",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ellie Elephant"],
+              "name": "Keynote",
+              "location": "The Zone",
+              "description": "This year we’ll kick off TechCamp with a keynote presentation from a very special guest, Chad Fowler.",
+              "speakerNames": ["Chad Fowler"],
               "timeStart": "9:00 am",
-              "timeEnd": "9:30 am",
-              "tracks": ["Ionic"]
-            },
-            {
-              "name": "Getting started with Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "9:30 am",
-              "timeEnd": "9:45 am",
-              "tracks": ["Ionic"]
-            },
-            {
-              "name": "Tooling for Ionic",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "9:45 am",
-              "timeEnd": "10:00 am",
-              "tracks": ["Tooling"]
+              "timeEnd": "9:50 am",
+              "tracks": ["Keynote"]
             }
           ]
         },
@@ -52,31 +34,40 @@
           "time": "10:00 am",
           "sessions": [
             {
-              "name": "Migrating to Ionic2",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "name": "Application Defense Modeling: A (more) developer-friendly model",
+              "location": "Room 225",
+              "description": "This talk will present a methodology that focuses on defenses rather than threats, resulting in a hybrid between a traditional threat modeling and a generic design review. The goal is to promote a methodology that can adapt to existing SDLC processes and remain “light” enough to be usable in a development environment focused on fast development cycles.",
+              "speakerNames": ["David Alkema"],
               "timeStart": "10:00 am",
-              "timeEnd": "10:15 am",
-              "tracks": ["Ionic"]
+              "timeEnd": "10:50 am",
+              "tracks": ["Development"]
             },
             {
-              "name": "The evolution of Ionicons",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
+              "name": "Beginner’s Guide To Creating Mobile Apps",
+              "location": "Methodist Presentation Theatre",
+              "description": "Have you ever wanted to create a mobile application, but didn’t know where to start? Do you have tons of ideas but no way to implement them? Join this session to gain insight into the landscape of Mobile Application Development. We will walk through the major mobile platforms, relevant tooling, and the secrets behind successful and popular mobile apps. Whether you are a longterm developer interested in pivoting to mobile or a non-technical entrepreneur looking to gain some technical insight , this session will give you the information you need to feel comfortable moving forward.",
+              "speakerNames": ["James Quick"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:50 am",
               "tracks": ["Design"]
             },
             {
-              "name": "Ionic.io Services",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Charlie Cheetah"],
-              "timeStart": "10:30 am",
-              "timeEnd": "11:00 am",
-              "tracks": ["Services"]
+              "name": "How to close prospects faster and keep them coming for more.",
+              "location": "Fishbowl",
+              "description": "Marketing isn’t about planning and executing your strategy anymore, marketing is a mix of both art and science. Join me to learn more about modern marketing and the various marketing techniques applicable to both enterprises and SMB. By the end of this session you’ll learn about the various marketing tools, marketing best practices, and the Leading Key Performance Indicators that drive business decisions.",
+              "speakerNames": ["Nuha Masri"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:50 am",
+              "tracks": ["Marketing"]
+            },
+            {
+              "name": "Developing Extensible Mission Control Software",
+              "location": "Classroom",
+              "description": "Open MCT is an open source, web-based mission control display framework, developed in a collaboration between the NASA Ames Research Center and the Jet Propulsion Laboratory. By supporting reconfiguration, extension, and adaptation, Open MCT provides new mechanisms for reuse and interoperability. This talk will discuss the evolution of the plugin-based architecture and APIs used to provide these capabilities, as well as the ongoing effort to balance flexibility and power against learning costs and ease of use.",
+              "speakerNames": ["Victor Woeltjen"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:50 am",
+              "tracks": ["Development"]
             }
           ]
         },
@@ -84,31 +75,40 @@
           "time": "11:00 am",
           "sessions": [
             {
-              "name": "Ionic Workshop",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "name": "Beyond SEO – What your web developer wants you to know about web content",
+              "location": "Fishbowl",
+              "description": "I build websites for a diverse set of clients and the greatest challenge I consistently face is not code related; it’s educating clients about web content. Many people want to build a website for themselves or their business but are unaware of the responsibility they’re taking on and the differences between the web and other more familiar mediums. In this talk, I hope to address some misconceptions I see going in to a lot of projects and talk about what non-coders, marketing professionals, site owners, and laymen should know about the web to work and communicate more effectively with web developers.",
+              "speakerNames": ["George Spake"],
               "timeStart": "11:00 am",
-              "timeEnd": "11:45 am",
-              "tracks": ["Workshop"]
-            },
-            {
-              "name": "Community Interaction",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-              "timeStart": "11:30 am",
               "timeEnd": "11:50 am",
-              "tracks": ["Communication"]
+              "tracks": ["Marketing"]
             },
             {
-              "name": "Navigation in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
-              "timeStart": "11:30 am",
-              "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"]
+              "name": "Analyzing field usage in RESTful APIs using Trim in Java",
+              "location": "Room 225",
+              "description": "Keeping large APIs light and clean can be an arduous task, especially if the client and API developers aren’t the same person. With Trim, a lightweight Java library, a detailed report can be generated with a small amount of documentation-like work in every release cycle. This report can be later used by the back-end developer to assess the acceptability of field removal. Trim works on top of a set of model classes annotated with information about which endpoints the requests associated with the classes hit, which headers they require to produce 2xx status codes, which endpoint response fields associated with particular attributes, or when attributes were removed from model classes. Provided this information, Trim is able to analyze the model’s structure and compare it to the data fetched from associated endpoints. Failure to produce 2xx status codes will be reported instead of the regular analysis.",
+              "speakerNames": ["Ismael Alonso"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Development"]
+            },
+            {
+              "name": "Just my TYPE: How Crappy Typography Can Weaken Your Visuals",
+              "location": "Methodist Presentation Theatre",
+              "description": "You’re being judged on your typography, even if you don’t realize it. A viewer makes a judgment instantly based on the visuals you provide them. Whether you are creating a website, blog, or brochure–the typography matters. Educational materials and marketing materials all communicate through type, make sure you are sending the right message and equip yourself with the necessary fundamentals and tools. This talk will cover basic Type 101 for anyone who uses type to communicate. We’ll cover basic concerns and fundamentals to help you improve your type game.",
+              "speakerNames": ["Natalie Tyree"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:50 pm",
+              "tracks": ["Design"]
+            },
+            {
+              "name": "Developing IT From an Economic Historical Perspective",
+              "location": "Classroom",
+              "description": "What created the demand for iPad, iPhone, and iPod? Where did such demand come from? Was it really an economic demand or natural phenomenon? In “Developing IT From an Economic Historical Perspective”, Richard Swinney will explore these issues and how some products, such Apple’s products, have affected the various economies currently and in the future. Finally, Swinney will discuss tomorrow development techniques.",
+              "speakerNames": ["Richard Swinney"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:50 pm",
+              "tracks": ["Development"]
             }
           ]
         },
@@ -117,8 +117,8 @@
           "sessions": [
             {
               "name": "Lunch",
-              "location": "Auditorium",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
+              "location": "TBA",
+              "description": "Come grab lunch at a location TBA!",
               "timeStart": "12:00 pm",
               "timeEnd": "1:00 pm",
               "tracks": ["Food"]
@@ -129,31 +129,31 @@
           "time": "1:00 pm",
           "sessions": [
             {
-              "name": "Ionic in the Enterprise",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Paul Puppy"],
+              "name": "How to achieve 4300% ROI with Email Marketing",
+              "location": "Methodist Presentation Theatre",
+              "description": "Email marketing is one of the most effective ways to reach customers today. According to the Direct Marketing Association, for every $1 spent on email marketing, the average return on investment is $44.25. Delivra Business Development Manager Anthony Antonicello will discuss effective techniques, insights, and best practices into how to use the power of email marketing to engage with customers and build your brand.",
+              "speakerNames": ["Anthony Antonicello"],
               "timeStart": "1:00 pm",
-              "timeEnd": "1:15 pm",
-              "tracks": ["Communication"]
+              "timeEnd": "1:50 pm",
+              "tracks": ["Marketing"]
             },
             {
-              "name": "Ionic Worldwide",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Gino Giraffe"],
-              "timeStart": "1:15 pm",
-              "timeEnd": "1:30 pm",
-              "tracks": ["Communication"]
+              "name": "Defense Against the Dark Arts",
+              "location": "Fishbowl",
+              "description": "The net is a dark and scary place, full of haxxors, goblins, and malware. To make it worse, they’re all after your customer data. In this presentation I will show you some language agnostic security principles, practices, and methodologies that you as a developer can take to prevent your website or web application from being the next entry in haveibeenpwned.com.",
+              "speakerNames": ["Jason Myers"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:50 pm",
+              "tracks": ["Development"]
             },
             {
-              "name": "The Ionic package service",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Molly Mouse", "Burt Bear"],
-              "timeStart": "1:30 pm",
-              "timeEnd": "2:00 pm",
-              "tracks": ["Services"]
+              "name": "Diving into Hybrid Mobile Apps with Ionic 2",
+              "location": "Classroom",
+              "description": "In this day and age, it feels that every business wants a mobile app in order to better connect with their customers. However, writing and maintaining 2 or 3 versions of the same app is not only cumbersome, it’s very expensive for even the most professional software shop. Many developers turn to hybrid apps to alleviate this problem, but often, the apps are slow, they lack some of the most basic features one would expect from an app, and they can be a pain to code. But Ionic 2 isn’t your grandfather’s hybrid app framework. Ionic 2 is the second iteration of the already popular Ionic Framework, and its release will bring with it a variety of improvements to the previous version. With the highly-anticipated Angular 2 as its base, Ionic 2 introduces dynamic component-architecture, versatile syntax and modularity via first-class Typescript support, numerous native plugins through Ionic Native, and powerful services through Ionic Cloud. With a renewed focus on performance, the Ionic team has placed an emphasis on the user experience of their mobile apps. Come join me as we explore the new syntax, features, and tools of Ionic 2 so that you can create stunning mobile apps with ease.",
+              "speakerNames": ["Keith Mattix"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:50 pm",
+              "tracks": ["Development"]
             }
           ]
         },
@@ -161,31 +161,40 @@
           "time": "2:00 pm",
           "sessions": [
             {
-              "name": "Push Notifications in Ionic",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "name": "Creative Direction In A Digital World",
+              "location": "Methodist Presentation Theatre",
+              "description": "This talk will define the role of the digital creative director and how it impacts the creation of digital products & experiences. Attendees will get practical advice on how to take a multidisciplinary, human-centered approach to digital creative direction that will help them uncover target audience insights, conceive more creative campaigns, change consumer behavior, and create more user-friendly digital experiences",
+              "speakerNames": ["Adam Harrell"],
               "timeStart": "2:00 pm",
-              "timeEnd": "2:30 pm",
-              "tracks": ["Services"]
-            },
-            {
-              "name": "Ionic Documentation",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Donald Duck"],
-              "timeStart": "2:30 pm",
-              "timeEnd": "2:45 pm",
-              "tracks": ["Documentation"]
-            },
-            {
-              "name": "UX planning in Ionic",
-              "location": "Room 2203",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
-              "timeStart": "2:45 pm",
-              "timeEnd": "3:00 pm",
+              "timeEnd": "2:50 pm",
               "tracks": ["Design"]
+            },
+            {
+              "name": "Search Engine Analytics: Where is the real information?",
+              "location": "Fishbowl",
+              "description": "This talk will focus on challenges in using modern search engine analytics tools and what metrics really matter. Focus on where the true information about users and behavior can be attained, and what tools exist.",
+              "speakerNames": ["Grant Morrow"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:50 pm",
+              "tracks": ["Marketing"]
+            },
+            {
+              "name": "Console Apps: php artisan forthe:win",
+              "location": "Room 225",
+              "description": "We’ll cover creating basic artisan console commands, adding options and passing input, setting up cron jobs and scheduling our console commands to run at specific times, and how you can utilize 3rd party APIs to create fun automated message processing for social media networks.",
+              "speakerNames": ["Joe Ferguson"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:50 pm",
+              "tracks": ["Development"]
+            },
+            {
+              "name": "Automate Everything!",
+              "location": "Classroom",
+              "description": "Node.js integration with Amazon Web Services (AWS) allows you to automate manual tasks done in the AWS Console. See how!",
+              "speakerNames": ["John Ruffin"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:50 pm",
+              "tracks": ["Development"]
             }
           ]
         },
@@ -193,168 +202,163 @@
           "time": "3:00",
           "sessions": [
             {
-              "name": "Directives in Ionic",
-              "location": "Room 2201",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
+              "name": "ASP.NET Core: Why All Platforms Should Care",
+              "location": "Room 225",
+              "description": "Until recently, ASP.NET development has been restricted to developers using Windows and Visual Studio.  Microsoft had kept the platform proprietary and closed source.  Over the years, they have relaxed this position but with ASP.NET Core things have changed.  Not only is the platform open source, it is fully supported across Windows, macOS and Linux. In addition, Microsoft is providing tools (that are also open source and cross platform) to make the process as consistent as possible.  And there are a number of tools outside of Microsoft that can be used as well.  Microsoft is truly becoming a company focused on ‘Any Developer. Any App. Any Platform’.  This session will take a look at the process of using ASP.NET Core on non-Microsoft platforms.",
+              "speakerNames": ["Douglas Starnes"],
               "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"]
+              "timeEnd": "3:50 pm",
+              "tracks": ["Development"]
             },
             {
-              "name": "Mobile States",
-              "location": "Room 2202",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"]
+              "name": "Is Your Small Business Social Media Savvy?",
+              "location": "Methodist Presentation Theatre",
+              "description": "This workshop teaches the importance of small businesses having not only a social media presence, but a solid strategy with their content. This workshop will offer the whys and hows for small business to utilize social media–giving step by step instructions for businesses of any size to take advantage of sharing their story in this 2.0 world.",
+              "speakerNames": ["Jenn Hamrick"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:50 pm",
+              "tracks": ["Marketing"]
+            },
+            {
+              "name": "PowerShell: The Best Shell Since Bash",
+              "location": "Fishbowl",
+              "description": "A walkthrough of PowerShell, introducing the environment and how to take advantage of the powerful capabilities in the language.",
+              "speakerNames": ["Mike Cochran"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:50 pm",
+              "tracks": ["Development"]
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "sessions": [
+            {
+              "name": "Closing Session & Raffle",
+              "location": "The Zone",
+              "description": "We will end the day in The Zone (same location as the opening session) with a few words from the organizers.  There will also be a raffle some amazing prizes! Don’t miss out!",
+              "speakerNames": [],
+              "timeStart": "4:00 pm",
+              "timeEnd": "5:00 pm",
+              "tracks": ["Wrap-Up"]
             }
           ]
         }
       ]
     }
   ],
-
-
   "speakers": [
     {
-      "name": "Burt Bear",
-      "profilePic": "assets/img/speakers/bear.jpg",
-      "twitter": "ionicframework",
-      "about": "Burt is a Bear.",
-      "location": "Everywhere",
-      "email": "burt@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Douglas Starnes",
+      "profilePic": "assets/img/speakers/douglas.jpeg",
+      "twitter": "poweredbyaltnet",
+      "about": "Douglas Starnes is a polyglot ninja and tech community influencer in the Memphis area making stuff that works on more than just the web. He specializes in the fields of mobile, IoT, data science and machine learning. Douglas is a co-director of the Memphis Python User Group and a board member of the Memphis .NET User Group. He is a frequent conference speaker who has delivered more than 20 featured presentations at more than 10 conferences over the past 4 years in a variety of citiies across the southeast United States. In addition, Douglas is an active participant in local user groups. He has also served as an organizer for PyTennessee, PyOhio and TechCampMemphis. Outside of being a geek Douglas is a trained composer, aspiring triathlete and avid Lego collector."
     },
     {
-      "name": "Charlie Cheetah",
-      "profilePic": "assets/img/speakers/cheetah.jpg",
-      "twitter": "ionicframework",
-      "about": "Charlie is a Cheetah.",
-      "location": "Everywhere",
-      "email": "charlie@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Chad Fowler",
+      "profilePic": "assets/img/speakers/chad.jpeg",
+      "twitter": "chadfowler",
+      "about": "Chad Fowler is an internationally known software developer, leader, teacher, speaker, and musician. Over the past two decades he has worked with software teams to create software for startups, non-profits, rising unicorns, and massive corporations. Chad is General Manager of Wunderlist at Microsoft, where he’s been leading the team since the acquisition of 6Wunderkinder in 2015 and is a Venture Partner with BlueYard Capital. He is co-founder and organizer of RubyConf and RailsConf and author or co-author of a number of popular software books, including Rails Recipes and The Passionate Programmer: Creating a Remarkable Career in Software Development. He left Memphis 16 years ago, never expecting to move back, but life is unpredictable isn’t it?"
     },
     {
-      "name": "Donald Duck",
-      "profilePic": "assets/img/speakers/duck.jpg",
-      "twitter": "ionicframework",
-      "about": "Donald is a Duck.",
-      "location": "Everywhere",
-      "email": "donald@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "David Alkema",
+      "about": "After a decade of software development, David Alkema changed hats to application security. He has spent the last 7+ years helping companies improve their application security and has worked with companies ranging from small startup development shops to Fortune 100 enterprises. David lives in the Memphis, TN area and balances security work with raising teenagers and volunteering with Boy Scouts."
     },
     {
-      "name": "Eva Eagle",
-      "profilePic": "assets/img/speakers/eagle.jpg",
-      "twitter": "ionicframework",
-      "about": "Eva is an Eagle.",
-      "location": "Everywhere",
-      "email": "eva@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "James Quick",
+      "profilePic": "assets/img/speakers/james.jpg",
+      "twitter": "jamesqquick",
+      "about": "James studied Computer Science and Spanish at Vanderbilt University where he found his passion for Mobile Development through creating his first application, a Harry Potter trivia game with over 25,000 downloads. After graduation, he joined Microsoft as a Technical Evangelist in Miami and New York City where he became a frequent speaker on Mobile, Cloud, and Entrepreneurship. James spends his spare time taking online courses, and has completed courses on topics such as IOS, Android, Full-Stack Web Development, and cross-platform mobile development with Xamarin. James has also mentored and participated at several hackathons, including Hack Memphis. During his time at Microsoft, James worked frequently with local startups and entrepreneurs. This experience influenced him to co-found QR Social, a social media consulting business, with one of his best friends. As Co-Founder, James is responsible for Technical Development, Web Development, Design, and automated tooling."
     },
     {
-      "name": "Ellie Elephant",
-      "profilePic": "assets/img/speakers/elephant.jpg",
-      "twitter": "ionicframework",
-      "about": "Ellie is an Elephant.",
-      "location": "Everywhere",
-      "email": "ellie@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Nuha Masri",
+      "profilePic": "assets/img/speakers/nuha.png",
+      "twitter": "NuhaMasri",
+      "about": "Nuha has a distinguished passion for all things marketing, tech, and business development and strategy. Her strengths are in marketing strategy, marketing growth, data-driven decisions, and business growth. Nuha graduated from the University of California, Berkeley. Currently, she is at LinkedIn and previously worked at Pinterest, YouTube(Google) and as a marketing consultant."
     },
     {
-      "name": "Gino Giraffe",
-      "profilePic": "assets/img/speakers/giraffe.jpg",
-      "twitter": "ionicframework",
-      "about": "Gino is a Giraffe.",
-      "location": "Everywhere",
-      "email": "gino@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Victor Woeltjen",
+      "profilePic": "assets/img/speakers/victor.jpeg",
+      "about": "Victor Woeltjen is a computer scientist employed by MORI Associates. Victor began working at the NASA Ames Research Center as a student intern in 2011, and became lead developer for Open MCT in 2013. He received his M.S. in Computer Science from San Francisco State University in 2014."
     },
     {
-      "name": "Isabella Iguana",
-      "profilePic": "assets/img/speakers/iguana.jpg",
-      "twitter": "ionicframework",
-      "about": "Isabella is an Iguana.",
-      "location": "Everywhere",
-      "email": "isabella@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "George Spake",
+      "profilePic": "assets/img/speakers/george.png",
+      "twitter": "georgespake",
+      "about": "George Spake is a web developer at UTHSC, lifelong Memphian, tech enthusiast, and community evangelist."
     },
     {
-      "name": "Karl Kitten",
-      "profilePic": "assets/img/speakers/kitten.jpg",
-      "twitter": "ionicframework",
-      "about": "Karl is a Kitten.",
-      "location": "Everywhere",
-      "email": "karl@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Ismael Alonso",
+      "profilePic": "assets/img/speakers/ismael.png",
+      "about": "Ismael was born in Spain, where he developed his passion for technology at a young age. He came to Memphis to earn a computer science degree from the University of Memphis. Since his senior year at the UofM, Ismael has worked as an Android developer for a number of organizations, including the Crews Center, managed by the FedEx Institute of Technology, Tennessee Data Commons, a local non-profit, and Sandwatch, a startup of his own."
     },
     {
-      "name": "Lionel Lion",
-      "profilePic": "assets/img/speakers/lion.jpg",
-      "twitter": "ionicframework",
-      "about": "Lionel is a Lion.",
-      "location": "Everywhere",
-      "email": "lionel@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Natalie Tyree",
+      "profilePic": "assets/img/speakers/natalie.jpeg",
+      "about": "Natalie Tyree is an Assistant Professor of Graphic Design at Delta State University where she teaches all levels of design courses. Her personal work centers around digital collage and pop-culture ideals. Natalie enjoys learning how to implement new apps and technologies in both the classroom and in the community of Cleveland, MS."
     },
     {
-      "name": "Molly Mouse",
-      "profilePic": "assets/img/speakers/mouse.jpg",
-      "twitter": "ionicframework",
-      "about": "Molly is a Mouse.",
-      "location": "Everywhere",
-      "email": "molly@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Richard Swinney",
+      "about": "What created the demand for iPad, iPhone, and iPod? Where did such demand come from? Was it really an economic demand or natural phenomenon? In “Developing IT From an Economic Historical Perspective”, Richard Swinney will explore these issues and how some products, such Apple’s products, have affected the various economies currently and in the future. Finally, Swinney will discuss tomorrow development techniques."
     },
     {
-      "name": "Paul Puppy",
-      "profilePic": "assets/img/speakers/puppy.jpg",
-      "twitter": "ionicframework",
-      "about": "Paul is a Puppy.",
-      "location": "Everywhere",
-      "email": "paul@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Anthony Antonicello",
+      "profilePic": "assets/img/speakers/anthony.jpeg",
+      "about": "Based in Louisville, KY, Anthony is a bourbon enthusiast and maintains allegiance to the teams of his alma mater, the University of Kentucky. He resides with his wife and 2 fur-babies, Moose & Beans. He has served as a member and leader for various organizations, including the St. Matthew’s Young Leaders, American Heart Association, Best Buddies International, and Sales & Marketing Executives International."
     },
     {
-      "name": "Rachel Rabbit",
-      "profilePic": "assets/img/speakers/rabbit.jpg",
-      "twitter": "ionicframework",
-      "about": "Rachel is a Rabbit.",
-      "location": "Everywhere",
-      "email": "rachel@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Jason Myers",
+      "profilePic": "assets/img/speakers/jason.jpeg",
+      "twitter": "Syliddar",
+      "about": "Jason Myers is a bad C# developer, a decent home brewer, and a good example of what not to do. He lives at home alone with two female cats (1 feral, 1 adopted), a female human (also feral) that overlooks his many flaws, and the monsters that haunt his dreams. He has been developing professionally for over 5 years, initially with the US Navy and more recently with Shelby Systems. He can typically be found at most #memtech Lunches, Coworking Day events, and sometimes the Dot Net User Group meetings. Failing that, any good bar with a vegetarian-friendly menu and craft beer on tap."
     },
     {
-      "name": "Ted Turtle",
-      "profilePic": "assets/img/speakers/turtle.jpg",
-      "twitter": "ionicframework",
-      "about": "Ted is a Turtle.",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010"
+      "name": "Keith Mattix",
+      "profilePic": "assets/img/speakers/keith.jpeg",
+      "twitter": "keithmattix",
+      "about": "I’m an 18-year-old web developer born and raised in Memphis, TN, and am a Computer Science student at Freed-Hardeman University. I’ve been programming since I was 10 years old, and my specialties are Ruby/Rails, Javascript, and Elixir. I have 4 years of professional experience in software development."
+    },
+    {
+      "name": "Adam Harrell",
+      "profilePic": "assets/img/speakers/adam.jpeg",
+      "twitter": "adamdharrell",
+      "about": "Adam is co-founder of Nebo which he helped grow from a bootstrap startup into one of the largest independent digital agencies in the Southeast. He speaks frequently on the topics of human-centered design, brand strategy, user experience, & storytelling. His work has been honored by the Addy’s, Webby’s and everything in between. He also teaches interactive design at the Creative Circus — one of the nation’s premier portfolio schools. He’s also the author of “Creative Direction In A Digital World: A Guide to Being a Modern Creative Director.”"
+    },
+    {
+      "name": "Grant Morrow",
+      "profilePic": "assets/img/speakers/grant.jpg",
+      "about": "Grant Morrow is currently eCommerce Program Manager for Orgill, Inc. Grant has worked in Internet Development, Project Management and eCommerce for over 10 years, and consults with small businesses and retailers regularly to help further their profitability and reach more potential online. Grant has an MBA from the University of Memphis and has lived in Memphis most of his life."
+    },
+    {
+      "name": "Joe Ferguson",
+      "profilePic": "assets/img/speakers/joe.jpeg",
+      "twitter": "JoePFerguson",
+      "about": "I’m a computer geek; a PHP developer who loves learning new things and new programming languages. In 1998, I started working with web development and had always loved the back end programming of websites and servers. While it started as a hobby, it became my profession in 2005 and since then, I have worked with a wide variety of code bases. I have also spent significant time in the ecommerce world–building custom solutions, modernizing legacy code bases, and working with custom content management systems. Over my career, I have grown to love the PHP community and can often be found in IRC channels relating to the PHP community or tools, and often help mentor those seeking to learn more via phpmentoring.org."
+    },
+    {
+      "name": "John Ruffin",
+      "profilePic": "assets/img/speakers/john.jpg",
+      "twitter": "thisKidCanCode",
+      "about": "Programmer!"
+    },
+    {
+      "name": "Jenn Hamrick",
+      "profilePic": "assets/img/speakers/jenn.jpg",
+      "about": "Social media marketing expert. Connector of brands and bloggers. Sweet tea drinker. World traveler. Jenn uses her ninja skills each day to transform business’ online presence."
+    },
+    {
+      "name": "Mike Cochran",
+      "profilePic": "assets/img/speakers/mike.jpeg",
+      "twitter": "vongrippen",
+      "about": "A local technology manager by day, working for a local investment management firm, and a rubyist/gopher by night."
     }
   ],
-
-
   "map": [
     {
-      "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.380120,
+      "name": "Fedex Institute of Technology",
+      "lat": 35.121997,
+      "lng": -89.939797,
       "center": true
-    },
-    {
-      "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
-    },
-    {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
     }
   ]
-
 }
